@@ -64,7 +64,7 @@ Componentes amigables para dar estética a tu sistema de software, tienes los me
 2. FiveCod Success
 3. FiveCod Welcome
 
-## Canal De Yotube
+## Canal De Youtube
 [FiveCod Software](https://www.youtube.com/c/FiveCodSoftWare)
 ## Facebook
 [Fivecod SoftWare](https://web.facebook.com/fivecod/)
